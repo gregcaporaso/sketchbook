@@ -1,0 +1,1 @@
+Some exploration into how the [pandas](http://pandas.pydata.org/) ``DataFrame`` could be a useful underlying representation for QIIME's metadata mapping files.

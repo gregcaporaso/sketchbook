@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT request="download accessions">
+	<taxon scientificName="metagenomes" taxId="408169" parentTaxId="12908" taxonomicDivision="UNC" geneticCode="11" mitochondrialGeneticCode="2" plastIdGeneticCode="11">
+		<lineage>
+			<taxon scientificName="unclassified sequences" taxId="12908"/>
+			<taxon scientificName="root" taxId="1" hidden="true"/>
+		</lineage>
+		<children>
+			<taxon scientificName="synthetic metagenome" taxId="1235509" rank="species"/>
+			<taxon scientificName="ecological metagenomes" taxId="410657">
+			</taxon>
+			<taxon scientificName="organismal metagenomes" taxId="410656">
+			</taxon>
+			<taxon scientificName="metagenome" taxId="256318" rank="species"/>
+		</children>
+	</taxon>
+</ROOT>

@@ -20,7 +20,7 @@ script_info = {}
 script_info['brief_description'] = ""
 script_info['script_description'] = ""
 # Members of the tuple in script_usage are (title, description, example call)
-script_info['script_usage'] = [("","","")]
+script_info['script_usage'] = [("","Join all files whose names start with 'in' and end with 'fasta' in a new fasta file.",'%prog -i "in*fasta" -o ./out/')]
 script_info['output_description']= ""
 script_info['required_options'] = [
     make_option('-i', '--input_glob',

@@ -1,0 +1,38 @@
+#SampleID	Spelling	Pronunciation	GeogrpahicLocation	Type
+Afrikaans	'n Bier, asseblief	A beer ah-suh-bleef	No data	No data
+Basque	Garagardo bat, mesedez	Gara-gardo bat mese-des	European	Other
+Breton	Ur banne bier am bo, mar plij	Oor bah-ne beer am boh mar pleezh	European	West Germanic
+Catalan	Una cervesa, si us plau	Oona servayzeh see oos plow	European	Latin
+Croatian	Jedno pivo, molim	Yed-no pee-vo, mo-lim	No data	No data
+Czech / Slovak	Pivo, prosím	Pee-vo, pro-seem	No data	No data
+Danish	Jeg vil gerne have en øl	Yay vil geh-neh heh en url	European	North Germanic
+Dutch	Een bier, alsjeblieft	Un beer, ahls-yer-bleeft	European	West Germanic
+English	One beer, please	Wun beer, pleez	European	West Germanic
+Esperanto	Unu bieron, mi petas	Oo-noo bee-airon, mee peh-tahs	European	Latin
+Estonian	Üks õlu, palun	Ooks ur-loo, pah-lun	European	Uralic
+Finnish	Olut mulle, kiitos	O-loot moolek kee-tos	European	Uralic
+French	Une bière, s'il vous plaît	Oon bee-air, seel voo pleh	European	Latin
+German	Ein Bier, bitte	Ine beer, bitt-uh	European	West Germanic
+Hungarian	Egy pohár sört kérek	Edj pohar shurt kayrek	European	Uralic
+Icelandic	Einn bjór, takk	Ay-dn byohr tahk	European	North Germanic
+Irish	Beoir amháin, le do thoil	Byohr awoyn, lyeh doh hull	European	West Germanic
+Italian	Una birra, per favore	Oo-na beer-ra, pair fa-vo-re	European	Latin
+Latin	Cervisiam, sodes	Ker-wi-see-am, soh-dehs	European	Latin
+Latvian	Vienu alu, lū-dzu	Vyeh-noo ah-loo, loo dzoo	European	Slavic
+Lithuanian	Prašau viena alaus	Pra-shau vie-na al-lows	European	Slavic
+Maltese	Wiehed birra, jekk jghogbok	Wee-het bir-ra yek yoh-dzbok	European	Arabic
+Norwegian	En øl, takk	Ehn url tahk	European	North Germanic
+Occitan	Una cervesa, se vos plai	Oo-no serbeh-zo se bus ply	European	Latin
+Polish	Jedno piwo, proszę	Yed-no peevo proshe	European	Slavic
+Portuguese	Uma cerveja, por favor	Oo-ma ser-vay-ja, poor fa-vohr	European	Latin
+Romansch Ladina	Üna biera, per plaschair.	Oo-nuh bee-air-uh per plah-chair	European	Latin
+Sardinian	Una birra, po piaghere	Oo-na beer-ra po pia-gehre	European	Latin
+Scots Gaelic	Leann, mas e do thoil e	Lyawn mahs eh doh hawl eh	European	West Germanic
+Slovene	Eno pivo, prosim	Eno pee-vo pro-seem	European	Slavic
+Spanish (Lat. Am.)	Una cerveza, por favor	Oo-na ser-veh-sa, por fa-vor	America	Latin
+Spanish (Spain)	Una cerveza, por favor	Oo-na thair-veh-tha, por fa-vor	European	Latin
+Strine	Foster's, mate	Faw-stuhz, mayt	Australia	West Germanic
+Swedish	En öl, tack	Ehn irl, tahk	European	North Germanic
+Twi	Mame beer baako, mi pawokyew	Mah-me bee-ye bah-ko mee pow-che-oo	Africa	Niger-Congo
+Turkish	Bir bira, lütfen	Beer beer-ah luht-fen	Middle East	Arabic
+Welsh	Cwrw os gwelwch in dda	Koo-roh ohs gwel-ookh-un-thah	European	West Germanic
